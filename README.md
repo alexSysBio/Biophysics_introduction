@@ -1,4 +1,4 @@
-# Introduction in biophysics - statistically significant complexities in cytoplasmic diffusion
+# Introduction to biophysics - statistically significant complexities in cytoplasmic diffusion
 
 This repository includes the teaching material in Biophysics.
 The purpose of this course is to familiarize biology undergraduates with statistical physics and specifically diffusion statistics.
