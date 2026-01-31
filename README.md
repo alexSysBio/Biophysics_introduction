@@ -1,6 +1,7 @@
-# Biophysics introduction
+# Introduction in biophysics - statistically significant complexities in cytoplasmic diffusion
 
-This repository includes the course material related to the bioBUDS program at Stanford University.
+This repository includes the teaching material in Biophysics.
+This course is intended for biology undergraduates, and provides and introduction to basic concepts of cytoplasmic diffusion and statistical physics.
 The purpose of this course is to familiarize biology undergraduates with statistical physics and specifically diffusion statistics.
 
 Goals of the course:
